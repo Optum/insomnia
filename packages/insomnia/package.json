@@ -156,7 +156,7 @@
   "devDependencies": {
     "@develohpanda/fluent-builder": "^2.1.2",
     "@modelcontextprotocol/sdk": "^1.17.5",
-    "@react-router/dev": "7.13.2",
+    "@react-router/dev": "7.17.0",
     "@tailwindcss/vite": "^4.1.17",
     "@testing-library/dom": "^10.4.1",
     "@testing-library/react": "^16.3.0",
@@ -191,21 +191,21 @@
     "@types/uuid": "^9.0.8",
     "@types/vkbeautify": "^0.99.4",
     "@types/ws": "^8.18.1",
-    "@vitejs/plugin-react": "5.1.2",
+    "@vitejs/plugin-react": "5.2.0",
     "cross-env": "^10.1.0",
     "electron": "41.0.3",
     "electron-builder": "26.8.1",
     "electron-builder-squirrel-windows": "26.8.1",
     "electron-devtools-installer": "^3.2.1",
     "electron-log": "^5.4.2",
-    "esbuild": "^0.25.10",
+    "esbuild": "^0.28.1",
     "esbuild-runner": "^2.2.2",
     "openapi-types": "^12.1.3",
     "tailwind-merge": "^2.6.0",
     "tailwindcss": "^4.1.17",
     "type-fest": "^4.40.0",
     "typescript": "^5.8.3",
-    "vite": "^7.1.3"
+    "vite": "^8.0.16"
   },
   "optionalDependencies": {
     "@kong/insomnia-plugin-ai": "^1.0.9",
