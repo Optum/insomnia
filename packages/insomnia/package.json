@@ -135,7 +135,7 @@
     "react-aria-components": "^1.12.2",
     "react-dom": "^18.3.1",
     "react-resizable-panels": "^3.0.6",
-    "react-router": "7.13.2",
+    "react-router": "7.15.1",
     "react-stately": "3.41.0",
     "react-use": "^17.6.0",
     "shell-path": "^3.1.0",
